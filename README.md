@@ -1,4 +1,4 @@
-# rekadigital_flutter
+# DRI Weather Test FLutter - Abdur Rofiq
 
 A new Flutter project.
 
